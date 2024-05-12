@@ -1,9 +1,9 @@
 # Fashion_Store_Data_Analysis_Using_Excel
  
-📍Download the [dataset](https://1drv.ms/x/c/3a385a8883f3623d/Eb1q9dM47GJAqbeUMj6JddsB5IpXxEZB66Prf7PxZ_LO2w?e=dS0JBl
+## Download the [dataset](https://1drv.ms/x/c/3a385a8883f3623d/Eb1q9dM47GJAqbeUMj6JddsB5IpXxEZB66Prf7PxZ_LO2w?e=dS0JBl
 ) from here.
 
-📍Download the complete [Dashboard](https://1drv.ms/x/c/3a385a8883f3623d/EYqIIS_ZQxhGhBItlfjSDc0B3a_zbKFLMqTT5uL7C12FgQ?e=d0V6lT
+## Download the complete [Dashboard](https://1drv.ms/x/c/3a385a8883f3623d/EYqIIS_ZQxhGhBItlfjSDc0B3a_zbKFLMqTT5uL7C12FgQ?e=d0V6lT
 ) from here.
 
 # Objective
