@@ -1,10 +1,8 @@
 # Fashion_Store_Data_Analysis_Using_Excel
  
-## Download the [dataset](https://1drv.ms/x/c/3a385a8883f3623d/Eb1q9dM47GJAqbeUMj6JddsB5IpXxEZB66Prf7PxZ_LO2w?e=dS0JBl)
- from here.
+## Download the [dataset](https://1drv.ms/x/c/3a385a8883f3623d/Eb1q9dM47GJAqbeUMj6JddsB5IpXxEZB66Prf7PxZ_LO2w?e=dS0JBl) from here.
 
-## Download the complete [Dashboard](https://1drv.ms/x/c/3a385a8883f3623d/EYqIIS_ZQxhGhBItlfjSDc0B3a_zbKFLMqTT5uL7C12FgQ?e=d0V6lT)
-from here.
+## Download the complete [Dashboard](https://1drv.ms/x/c/3a385a8883f3623d/EYqIIS_ZQxhGhBItlfjSDc0B3a_zbKFLMqTT5uL7C12FgQ?e=d0V6lT) from here.
 
 # Objective
 Fashion Store wants to create an annual sales report for 2023. So that, this store can understand their customers and grow more sales in 2024. Implemented an advanced Retail Store Dashboard using EXCEL.
